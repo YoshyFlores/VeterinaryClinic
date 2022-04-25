@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Veterinary Clinic</string>
+    <string name="select_option">Select an option to View</string>
+    <string name="select_option_add">Select an option to Add</string>
+
+    <string name="title_ask">Do you want to see or add information?</string>
+
+    <!--    Veterinarian    -->
+    <string name="veterinarian_title">Veterinarians</string>
+    <string name="veterinarian_title_add">Add Veterinarian</string>
+    <string name="enter_veterinarian_name">Enter veterinarian name</string>
+    <string name="enter_veterinarian_phone">Enter veterinarian phone</string>
+    <string name="enter_veterinarian_specialty">Enter specialty veterinarian</string>
+    <string name="enter_veterinarian_work_clinic">Enter work clinic</string>
+
+    <string name="information_veterinarian">Information Veterinarian</string>
+
+    <!--    Buttons     -->
+    <string name="btn_save">Save</string>
+    <string name="btn_view">View</string>
+    <string name="btn_add">Add</string>
+
+    <!--    Vaccines    -->
+    <string name="vaccine_title">Vaccines</string>
+    <string name="vaccine_title_add">Add Vaccine</string>
+    <string name="enter_vaccine_name">Enter vaccine name</string>
+    <string name="enter_vaccine_description">Enter vaccine description</string>
+    <string name="enter_vaccine_price">Enter vaccine price</string>
+    <string name="information_team_developer">Information Team Developer</string>
+
+    <string name="information_vaccine">Information Vaccine</string>
+
+    <!--    Pets    -->
+    <string name="pet_title">Pets</string>
+    <string name="pet_title_add">Add Pets</string>
+    <string name="enter_pet_name">Enter pet name</string>
+    <string name="enter_pet_race">Enter pet race</string>
+    <string name="enter_pet_age">Enter pet age</string>
+    <string name="enter_name_pet_owner">Enter name pet owner</string>
+
+    <string name="information_pet">Information Pet</string>
+
+    <!--    Clinic Information  -->
+    <string name="clinic_title">Clinics</string>
+    <string name="clinic_title_add">Add Clinic</string>
+    <string name="enter_clinic_name">Enter clinic name</string>
+    <string name="enter_clinic_address">Enter clinic address</string>
+    <string name="enter_clinic_phone">Enter clinic phone</string>
+
+    <string name="information_clinic">Information Clinic</string>
+</resources>
